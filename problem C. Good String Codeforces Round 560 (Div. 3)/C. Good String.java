@@ -14,7 +14,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int n  =scanner.nextInt();
         String str = scanner.next();
-        n = str.length();
         int cnt = 0;
         StringBuilder ans = new StringBuilder();
         int odd = 0;
